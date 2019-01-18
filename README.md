@@ -21,5 +21,6 @@ Download the code from github.
 ## 3. pip install -r requirements.txt
 
 # step 4
-run main.py
-python3 main.py
+## run main.py
+## == doublick start.bat
+## == input command: python3 main.py
