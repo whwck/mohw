@@ -16,6 +16,7 @@ Download the code from github.
 ## 2. 
 
 # step 3
+move to the folder mohw.
 pip install -r requirements.txt
 
 # step 4
