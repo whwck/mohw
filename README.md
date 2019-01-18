@@ -16,8 +16,10 @@ Download the code from github.
 ## 2. 
 
 # step 3
-move to the folder mohw.
-pip install -r requirements.txt
+## 1. move to the folder mohw.
+## 2. double click start.bat
+## 3. pip install -r requirements.txt
 
 # step 4
 run main.py
+python3 main.py
